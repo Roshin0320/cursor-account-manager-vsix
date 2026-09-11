@@ -4,11 +4,10 @@
 
 Grok Bot 加速是可选附加功能，不注入也能正常切号、看额度。
 
-开源免费，欢迎加群交流：
+商业授权。购买后在侧栏「关于」粘贴激活码即可使用（本机校验，不走接口）。加群售后：
 
 - **QQ 一群**：`872329220`（满员请加二群）
 - **QQ 二群**：`1087128280`
-- **GitHub**：[Roshin0320/cursor-account-manager-vsix](https://github.com/Roshin0320/cursor-account-manager-vsix)
 
 > 账号管理不限 Cursor 版本。Grok 注入目前仅兼容 **3.18.9 / 3.18.25 / 3.19.13**。文中截图为占位图，后续替换为实拍即可。
 
@@ -278,15 +277,23 @@ WorkosCursorSessionToken=...
 
 ---
 
-## 11. 关于与交流群
+## 11. 关于、激活与交流群
 
-插件开源免费。加群问问题、看更新，也可以给仓库点个 Star。
+本插件为商业授权。侧栏 **关于** 页可粘贴激活码、查看授权状态，以及扫码加群。
 
-侧栏 **关于** 页同样有简介、二维码和仓库入口。
+未激活时可以浏览界面；切号、导入导出、注入等需激活后使用。激活码由卖家签发，插件在本机验签，不联网。
 
 ![关于与交流群](screenshots/about.png)
 
-### 11.1 QQ 交流群
+### 11.1 激活
+
+1. 打开侧栏 **关于**
+2. 点 **粘贴激活码**，把卖家给你的整段 `CAM1.` 开头的码贴进去
+3. 成功后显示「已激活」和授权名称 / 有效期
+
+换电脑需重新粘贴同一枚激活码（不绑定机器）。过期后向卖家续期拿新码。
+
+### 11.2 QQ 交流群
 
 | 群       | 群号         | 说明           |
 | -------- | ------------ | -------------- |
@@ -303,14 +310,6 @@ WorkosCursorSessionToken=...
 </table>
 
 插件里点二维码可放大，QQ 群可点 **复制群号**。
-
-### 11.2 GitHub
-
-- **仓库**：[Roshin0320/cursor-account-manager-vsix](https://github.com/Roshin0320/cursor-account-manager-vsix)
-- **下载新版本**：[Releases](https://github.com/Roshin0320/cursor-account-manager-vsix/releases)
-- **问题反馈**：[Issues](https://github.com/Roshin0320/cursor-account-manager-vsix/issues)
-
-关于页的 **打开仓库** 会跳到发布页。
 
 ---
 
